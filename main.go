@@ -145,7 +145,7 @@ func randomDirection(node Node, directionArr []string, routeArr *[][]int, matrix
 	 * @param {Node} node - 点
 			  {[]string} directionArr - [方向数组]
 			  {*[][]int} routeArr - [线路数组]
-			  [*[88][88]Node] matrix - [二维矩阵]
+			  {*[88][88]Node} matrix - [二维矩阵]
 	 * @return {Node} nextNode - [下一点]
 	 * @author: Senkita
 	*/
